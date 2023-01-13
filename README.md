@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tahbibO 🦥
-- 👀 I’m currently working on an Shopping Webiste Project
+- 👀 I’m currently working on an Shopping Website Project
 - 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/tahbib/) or at my email: tahbibosman@cmail.carleton.ca
 
 - Projects:
