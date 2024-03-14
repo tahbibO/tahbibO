@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tahbibO 🦥
-- 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/tahbib/) or at my email: tahbibosman@cmail.carleton.ca
+- 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/tahbib/) or at my email: tahbib_osman@outlook.ca
 
 - Projects:
   - 🤖 [Discord Bot](https://github.com/tahbibO/Discord_Bot): Discord checks product availability of a product on BestBuy.ca using selenium and discord api
