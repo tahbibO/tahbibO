@@ -6,7 +6,8 @@
   - ✅ [Task DataBase](https://github.com/tahbibO/TaskDataBase): A database which stores infomration on Tasks and Users and using Node to serve GUI
   - 🪫[CES Device Simulator](https://github.com/DaudTalat/CES-Device-Simulator): A QT application which simulates Oasis Pro CES Device.
   - 🗨️ [Go Chat App](https://github.com/DaudTalat/GOChat): A chat room application with AES-256 encryption
-  - ✈️ [Air Craft Parts Simulator](https://github.com/tahbibO/AirCraftSimulator): This project uses C++ and OOP concepts to simluate air craft parts.  
+  - ✈️ [Air Craft Parts Simulator](https://github.com/tahbibO/AirCraftSimulator): This project uses C++ and OOP concepts to simluate air craft parts.
+  - 🔐 [SCMS Cloud Private Key Infrastructure on QX](https://github.com/tahbibO/SCMS-Cloud-PKI): This project implements a basic public key infrastruce ontop of QNX operating system.   
 
 
 
